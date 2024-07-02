@@ -1,4 +1,4 @@
-This directory contains necessary files to reproduce the results in the article A climatology of weather-driven anomalies in European photovoltaic and wind power production (Ho and Fiedler, 2024), including:
+This directory contains necessary files to reproduce the results in the article A climatology of weather-driven anomalies in European photovoltaic and wind power production (Ho and Fiedler, 2024, https://doi.org/10.1038/s43247-024-01224-x), including:
 
 (1) Output of the Renewable Energy Model (REM) as described in (Ho and Fiedler, 2024), last modification on 30.10.2023 from Linh Ho, named year_PV_wind_generation_v2.nc, with 23 years from 1995 to 2017.
 REM includes one simulation of photovoltaic (PV) power production and one simulation of wind power production across European domain, with a horizontal resolution of 48 km, hourly output for the period 1995--2017.
